@@ -6,10 +6,21 @@
     border: none;
 }
 
-
-
 body {
     font-family: Martel, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Quicksand, sans-serif;
+    letter-spacing: 2px;
+    color: #736753;
+}
+
+# logo {
+    float: left;
+    font-size: 280%;
 }
