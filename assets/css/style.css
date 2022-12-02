@@ -15,7 +15,7 @@ body {
     font-weight: 300;
     color: #171410;
     background-color: #f1efed;
-    background-image: url("/assets/images/background.jpg")
+    background-image: url("/assets/images/background.jpg");
 }
 
 /* headings and logo */
@@ -24,7 +24,7 @@ h1, h2 {
     font-family: Quicksand, sans-serif;
     text-transform: lowercase;
     letter-spacing: 2px;
-    color: #736753;
+    color: #453d31;
 }
 
 #logo {
@@ -75,11 +75,11 @@ h1, h2 {
     /* background-size: cover; */
     height: 500px;
     position: relative;
-    padding-top: 20px;
+    padding-top: 250px;
 }
 
 #cover-text {
-    color: #736753;
+    color: #453d31;
     font-size: 175%;
     font-family: Quicksand, sans-serif;
     letter-spacing: 2px;
@@ -94,7 +94,7 @@ h1, h2 {
 }
 
 #cover-text > h2 {
-    color: #736753;
+    color: #453d31;
     font-size: 150%;
     font-family: Quicksand, sans-serif;
     letter-spacing: 2px;
